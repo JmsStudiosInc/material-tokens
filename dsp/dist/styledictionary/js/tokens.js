@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 27 Oct 2022 21:32:26 GMT
+ * Generated on Fri, 28 Oct 2022 15:55:07 GMT
  */
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
@@ -247,12 +247,19 @@ export const MdSysTypescaleDisplayMediumLineHeight = "52"; // typescale display 
 export const MdSysTypescaleDisplayMediumTracking = "0";
 export const MdSysTypescaleDisplayLargeLineHeight = "64"; // typescale display large line-height
 export const MdSysTypescaleDisplayLargeTracking = "0"; // typescale display large tracking
-export const MdSysSpacingXxxSmall = "4"; // spacing xxx small
-export const MdSysSpacingXxSmall = "8"; // spacing xx small
-export const MdSysSpacingXSmall = "12"; // spacing x small
-export const MdSysSpacingSmall = "16"; // spacing small
+
+export const MdSysSpacingXxxxSmall = "4"; // spacing xxxx small
+export const MdSysSpacingXxxSmall = "8"; // spacing xxx small
+export const MdSysSpacingXxSmall = "12"; // spacing xx small
+export const MdSysSpacingXSmall = "16"; // spacing x small
 export const MdSysSpacingMedium = "24"; // spacing medium
 export const MdSysSpacingLarge = "32"; // spacing large
-export const MdSysSpacingXLarge = "48"; // spacing x large
-export const MdSysSpacingXxLarge = "56"; // spacing xx large
-export const MdSysSpacingXxxLarge = "64"; // spacing xxx large
+export const MdSysSpacingXLarge = "36"; // spacing x large
+export const MdSysSpacingXMedium = "28"; // spacing x medium
+export const MdSysSpacingXxxLarge = "44"; // spacing xxx large
+export const MdSysSpacingSmall = "20"; // spacing small
+export const MdSysSpacingXxLarge = "40"; // spacing xx large
+export const MdSysSpacingXlarge = "48"; // spacing xlarge
+export const MdSysSpacingXXlarge = "52"; // spacing x xlarge
+export const MdSysSpacingXxXlarge = "56"; // spacing xx xlarge
+export const MdSysSpacingXxxXlarge = "64"; // spacing xxx  xlarge

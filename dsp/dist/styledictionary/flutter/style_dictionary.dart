@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 27 Oct 2022 21:32:26 GMT
+// Generated on Fri, 28 Oct 2022 15:55:07 GMT
 
 
 
@@ -184,13 +184,19 @@ class StyleDictionary {
     static const mdSysColorTertiaryLight = Color(0xFF7D5260); /* Tertiary */
     static const mdSysSpacingLarge = 32; /* spacing large */
     static const mdSysSpacingMedium = 24; /* spacing medium */
-    static const mdSysSpacingSmall = 16; /* spacing small */
-    static const mdSysSpacingXLarge = 48; /* spacing x large */
-    static const mdSysSpacingXSmall = 12; /* spacing x small */
-    static const mdSysSpacingXxLarge = 56; /* spacing xx large */
-    static const mdSysSpacingXxSmall = 8; /* spacing xx small */
-    static const mdSysSpacingXxxLarge = 64; /* spacing xxx large */
-    static const mdSysSpacingXxxSmall = 4; /* spacing xxx small */
+    static const mdSysSpacingSmall = 20; /* spacing small */
+    static const mdSysSpacingXLarge = 36; /* spacing x large */
+    static const mdSysSpacingXMedium = 28; /* spacing x medium */
+    static const mdSysSpacingXSmall = 16; /* spacing x small */
+    static const mdSysSpacingXXlarge = 52; /* spacing x xlarge */
+    static const mdSysSpacingXlarge = 48; /* spacing xlarge */
+    static const mdSysSpacingXxLarge = 40; /* spacing xx large */
+    static const mdSysSpacingXxSmall = 12; /* spacing xx small */
+    static const mdSysSpacingXxXlarge = 56; /* spacing xx xlarge */
+    static const mdSysSpacingXxxLarge = 44; /* spacing xxx large */
+    static const mdSysSpacingXxxSmall = 8; /* spacing xxx small */
+    static const mdSysSpacingXxxXlarge = 64; /* spacing xxx  xlarge */
+    static const mdSysSpacingXxxxSmall = 4; /* spacing xxxx small */
     static const mdSysTypescaleBodyLargeFamily = Roboto;
     static const mdSysTypescaleBodyLargeLineHeight = 24; /* typescale body large line-height */
     static const mdSysTypescaleBodyLargeSize = 256.00;
