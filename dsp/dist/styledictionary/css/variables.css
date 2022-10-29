@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 28 Oct 2022 15:55:07 GMT
+ * Generated on Sat, 29 Oct 2022 03:06:11 GMT
  */
 
 :root {
@@ -248,19 +248,19 @@
   --md-sys-typescale-display-medium-tracking: 0;
   --md-sys-typescale-display-large-line-height: 64; /* typescale display large line-height */
   --md-sys-typescale-display-large-tracking: 0; /* typescale display large tracking */
-  --md-sys-spacing-xxxx-small: 4; /* spacing xxxx small */
-  --md-sys-spacing-xxx-small: 8; /* spacing xxx small */
-  --md-sys-spacing-xx-small: 12; /* spacing xx small */
-  --md-sys-spacing-x-small: 16; /* spacing x small */
-  --md-sys-spacing-medium: 24; /* spacing medium */
-  --md-sys-spacing-large: 32; /* spacing large */
-  --md-sys-spacing-x-large: 36; /* spacing x large */
-  --md-sys-spacing-x-medium: 28; /* spacing x medium */
-  --md-sys-spacing-xxx-large: 44; /* spacing xxx large */
-  --md-sys-spacing-small: 20; /* spacing small */
-  --md-sys-spacing-xx-large: 40; /* spacing xx large */
-  --md-sys-spacing-xlarge: 48; /* spacing xlarge */
-  --md-sys-spacing-x-xlarge: 52; /* spacing x xlarge */
-  --md-sys-spacing-xx-xlarge: 56; /* spacing xx xlarge */
-  --md-sys-spacing-xxx-xlarge: 64; /* spacing xxx  xlarge */
+  --md-sys-spacing-xxxx-small: 4; /* xxxx small */
+  --md-sys-spacing-xxx-small: 8; /* xxx small */
+  --md-sys-spacing-xx-small: 12; /* xx small */
+  --md-sys-spacing-x-small: 16; /* x small */
+  --md-sys-spacing-small: 20; /* small */
+  --md-sys-spacing-medium: 24; /* medium */
+  --md-sys-spacing-x-medium: 28; /* x medium */
+  --md-sys-spacing-xx-medium: 32; /* xx medium */
+  --md-sys-spacing-xxx-medium: 36; /* xxx medium */
+  --md-sys-spacing-xxxx-medium: 40; /* xxxx medium */
+  --md-sys-spacing-large: 44; /* large */
+  --md-sys-spacing-x-large: 48; /* xxx large */
+  --md-sys-spacing-xx-large: 52; /* xx large */
+  --md-sys-spacing-xxx-large: 56; /* xxx large */
+  --md-sys-spacing-xxxx-large: 64; /* xxxx large */
 }
