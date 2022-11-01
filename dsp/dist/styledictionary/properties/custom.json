@@ -138,41 +138,65 @@
       "value": "0",
       "comment": "typescale display large tracking"
     },
-    "md_sys_spacing_xxx-small": {
+    "md_sys_spacing_xxxx-small": {
       "value": "4",
-      "comment": "spacing xxx small"
+      "comment": "xxxx small"
+    },
+    "md_sys_spacing_xxx-small": {
+      "value": "8",
+      "comment": "xxx small"
     },
     "md_sys_spacing_xx-small": {
-      "value": "8",
-      "comment": "spacing xx small"
+      "value": "12",
+      "comment": "xx small"
     },
     "md_sys_spacing_x-small": {
-      "value": "12",
-      "comment": "spacing x small"
+      "value": "16",
+      "comment": "x small"
     },
     "md_sys_spacing_small": {
-      "value": "16",
-      "comment": "spacing small"
+      "value": "20",
+      "comment": "small"
     },
     "md_sys_spacing_medium": {
       "value": "24",
-      "comment": "spacing medium"
+      "comment": "medium"
+    },
+    "md_sys_spacing_x-medium": {
+      "value": "28",
+      "comment": "x medium"
+    },
+    "md_sys_spacing_xx-medium": {
+      "value": "32",
+      "comment": "xx medium"
+    },
+    "md_sys_spacing_xxx-medium": {
+      "value": "36",
+      "comment": "xxx medium"
+    },
+    "md_sys_spacing_xxxx-medium": {
+      "value": "40",
+      "comment": "xxxx medium"
     },
     "md_sys_spacing_large": {
-      "value": "32",
-      "comment": "spacing large"
+      "value": "44",
+      "comment": "large"
     },
     "md_sys_spacing_x-large": {
       "value": "48",
-      "comment": "spacing x large"
+      "comment": "xxx large"
     },
-    " md_sys_spacing_xx-large": {
+    "md_sys_spacing_xx-large": {
+      "value": "52",
+      "comment": "xx large"
+    },
+    "md_sys_spacing_xxx-large": {
       "value": "56",
-      "comment": "spacing xx large"
+      "comment": "xxx large"
     },
-    " md_sys_spacing_xxx-large": {
+    "md_sys_spacing_xxxx-large": {
       "value": "64",
-      "comment": "spacing xxx large"
+      "comment": "xxxx large"
     }
   }
 }

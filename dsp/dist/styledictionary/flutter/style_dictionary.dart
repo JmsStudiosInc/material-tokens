@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 27 Oct 2022 21:32:26 GMT
+// Generated on Sat, 29 Oct 2022 03:06:11 GMT
 
 
 
@@ -182,15 +182,21 @@ class StyleDictionary {
     static const mdSysColorTertiaryContainerLight = Color(0xFFFFD8E4); /* Tertiary container */
     static const mdSysColorTertiaryDark = Color(0xFFEFB8C8); /* Tertiary */
     static const mdSysColorTertiaryLight = Color(0xFF7D5260); /* Tertiary */
-    static const mdSysSpacingLarge = 32; /* spacing large */
-    static const mdSysSpacingMedium = 24; /* spacing medium */
-    static const mdSysSpacingSmall = 16; /* spacing small */
-    static const mdSysSpacingXLarge = 48; /* spacing x large */
-    static const mdSysSpacingXSmall = 12; /* spacing x small */
-    static const mdSysSpacingXxLarge = 56; /* spacing xx large */
-    static const mdSysSpacingXxSmall = 8; /* spacing xx small */
-    static const mdSysSpacingXxxLarge = 64; /* spacing xxx large */
-    static const mdSysSpacingXxxSmall = 4; /* spacing xxx small */
+    static const mdSysSpacingLarge = 44; /* large */
+    static const mdSysSpacingMedium = 24; /* medium */
+    static const mdSysSpacingSmall = 20; /* small */
+    static const mdSysSpacingXLarge = 48; /* xxx large */
+    static const mdSysSpacingXMedium = 28; /* x medium */
+    static const mdSysSpacingXSmall = 16; /* x small */
+    static const mdSysSpacingXxLarge = 52; /* xx large */
+    static const mdSysSpacingXxMedium = 32; /* xx medium */
+    static const mdSysSpacingXxSmall = 12; /* xx small */
+    static const mdSysSpacingXxxLarge = 56; /* xxx large */
+    static const mdSysSpacingXxxMedium = 36; /* xxx medium */
+    static const mdSysSpacingXxxSmall = 8; /* xxx small */
+    static const mdSysSpacingXxxxLarge = 64; /* xxxx large */
+    static const mdSysSpacingXxxxMedium = 40; /* xxxx medium */
+    static const mdSysSpacingXxxxSmall = 4; /* xxxx small */
     static const mdSysTypescaleBodyLargeFamily = Roboto;
     static const mdSysTypescaleBodyLargeLineHeight = 24; /* typescale body large line-height */
     static const mdSysTypescaleBodyLargeSize = 256.00;
