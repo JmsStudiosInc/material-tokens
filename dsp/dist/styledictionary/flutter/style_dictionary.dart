@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 29 Oct 2022 03:06:11 GMT
+// Generated on Tue, 01 Nov 2022 18:19:26 GMT
 
 
 
@@ -182,21 +182,26 @@ class StyleDictionary {
     static const mdSysColorTertiaryContainerLight = Color(0xFFFFD8E4); /* Tertiary container */
     static const mdSysColorTertiaryDark = Color(0xFFEFB8C8); /* Tertiary */
     static const mdSysColorTertiaryLight = Color(0xFF7D5260); /* Tertiary */
-    static const mdSysSpacingLarge = 44; /* large */
-    static const mdSysSpacingMedium = 24; /* medium */
-    static const mdSysSpacingSmall = 20; /* small */
-    static const mdSysSpacingXLarge = 48; /* xxx large */
-    static const mdSysSpacingXMedium = 28; /* x medium */
-    static const mdSysSpacingXSmall = 16; /* x small */
-    static const mdSysSpacingXxLarge = 52; /* xx large */
-    static const mdSysSpacingXxMedium = 32; /* xx medium */
-    static const mdSysSpacingXxSmall = 12; /* xx small */
-    static const mdSysSpacingXxxLarge = 56; /* xxx large */
-    static const mdSysSpacingXxxMedium = 36; /* xxx medium */
-    static const mdSysSpacingXxxSmall = 8; /* xxx small */
-    static const mdSysSpacingXxxxLarge = 64; /* xxxx large */
-    static const mdSysSpacingXxxxMedium = 40; /* xxxx medium */
-    static const mdSysSpacingXxxxSmall = 4; /* xxxx small */
+    static const mdSysSpacing19X = 76;
+    static const mdSysSpacing1X = 4;
+    static const mdSysSpacing20X = 80;
+    static const mdSysSpacing2X = 8;
+    static const mdSysSpacing3X = 12;
+    static const mdSysSpacing4X = 16;
+    static const mdSysSpacing5X = 20;
+    static const mdSysSpacing6X = 24;
+    static const mdSysSpacing7X = 28;
+    static const mdSysSpacingX10 = 40;
+    static const mdSysSpacingX11 = 44;
+    static const mdSysSpacingX12 = 48;
+    static const mdSysSpacingX13 = 52;
+    static const mdSysSpacingX14 = 56;
+    static const mdSysSpacingX15 = 60;
+    static const mdSysSpacingX16 = 64;
+    static const mdSysSpacingX17 = 68;
+    static const mdSysSpacingX18 = 72;
+    static const mdSysSpacingX8 = 32;
+    static const mdSysSpacingX9 = 36;
     static const mdSysTypescaleBodyLargeFamily = Roboto;
     static const mdSysTypescaleBodyLargeLineHeight = 24; /* typescale body large line-height */
     static const mdSysTypescaleBodyLargeSize = 256.00;

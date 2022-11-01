@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 29 Oct 2022 03:06:11 GMT
+ * Generated on Tue, 01 Nov 2022 18:19:26 GMT
  */
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
@@ -247,18 +247,23 @@ export const MdSysTypescaleDisplayMediumLineHeight = "52"; // typescale display 
 export const MdSysTypescaleDisplayMediumTracking = "0";
 export const MdSysTypescaleDisplayLargeLineHeight = "64"; // typescale display large line-height
 export const MdSysTypescaleDisplayLargeTracking = "0"; // typescale display large tracking
-export const MdSysSpacingXxxxSmall = "4"; // xxxx small
-export const MdSysSpacingXxxSmall = "8"; // xxx small
-export const MdSysSpacingXxSmall = "12"; // xx small
-export const MdSysSpacingXSmall = "16"; // x small
-export const MdSysSpacingSmall = "20"; // small
-export const MdSysSpacingMedium = "24"; // medium
-export const MdSysSpacingXMedium = "28"; // x medium
-export const MdSysSpacingXxMedium = "32"; // xx medium
-export const MdSysSpacingXxxMedium = "36"; // xxx medium
-export const MdSysSpacingXxxxMedium = "40"; // xxxx medium
-export const MdSysSpacingLarge = "44"; // large
-export const MdSysSpacingXLarge = "48"; // xxx large
-export const MdSysSpacingXxLarge = "52"; // xx large
-export const MdSysSpacingXxxLarge = "56"; // xxx large
-export const MdSysSpacingXxxxLarge = "64"; // xxxx large
+export const MdSysSpacing1X = "4";
+export const MdSysSpacing2X = "8";
+export const MdSysSpacing3X = "12";
+export const MdSysSpacing4X = "16";
+export const MdSysSpacing5X = "20";
+export const MdSysSpacing6X = "24";
+export const MdSysSpacing7X = "28";
+export const MdSysSpacingX8 = "32";
+export const MdSysSpacingX9 = "36";
+export const MdSysSpacingX10 = "40";
+export const MdSysSpacingX11 = "44";
+export const MdSysSpacingX12 = "48";
+export const MdSysSpacingX13 = "52";
+export const MdSysSpacingX14 = "56";
+export const MdSysSpacingX15 = "60";
+export const MdSysSpacingX16 = "64";
+export const MdSysSpacingX17 = "68";
+export const MdSysSpacingX18 = "72";
+export const MdSysSpacing19X = "76";
+export const MdSysSpacing20X = "80";

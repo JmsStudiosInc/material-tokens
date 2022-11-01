@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 29 Oct 2022 03:06:11 GMT
+// Generated on Tue, 01 Nov 2022 18:19:26 GMT
 
 
 import UIKit
@@ -179,21 +179,26 @@ public class StyleDictionary {
     public static let mdSysColorTertiaryContainerLight = UIColor(red: 1.000, green: 0.847, blue: 0.894, alpha: 1) /* Tertiary container */
     public static let mdSysColorTertiaryDark = UIColor(red: 0.937, green: 0.722, blue: 0.784, alpha: 1) /* Tertiary */
     public static let mdSysColorTertiaryLight = UIColor(red: 0.490, green: 0.322, blue: 0.376, alpha: 1) /* Tertiary */
-    public static let mdSysSpacingLarge = 44 /* large */
-    public static let mdSysSpacingMedium = 24 /* medium */
-    public static let mdSysSpacingSmall = 20 /* small */
-    public static let mdSysSpacingXLarge = 48 /* xxx large */
-    public static let mdSysSpacingXMedium = 28 /* x medium */
-    public static let mdSysSpacingXSmall = 16 /* x small */
-    public static let mdSysSpacingXxLarge = 52 /* xx large */
-    public static let mdSysSpacingXxMedium = 32 /* xx medium */
-    public static let mdSysSpacingXxSmall = 12 /* xx small */
-    public static let mdSysSpacingXxxLarge = 56 /* xxx large */
-    public static let mdSysSpacingXxxMedium = 36 /* xxx medium */
-    public static let mdSysSpacingXxxSmall = 8 /* xxx small */
-    public static let mdSysSpacingXxxxLarge = 64 /* xxxx large */
-    public static let mdSysSpacingXxxxMedium = 40 /* xxxx medium */
-    public static let mdSysSpacingXxxxSmall = 4 /* xxxx small */
+    public static let mdSysSpacing19X = 76
+    public static let mdSysSpacing1X = 4
+    public static let mdSysSpacing20X = 80
+    public static let mdSysSpacing2X = 8
+    public static let mdSysSpacing3X = 12
+    public static let mdSysSpacing4X = 16
+    public static let mdSysSpacing5X = 20
+    public static let mdSysSpacing6X = 24
+    public static let mdSysSpacing7X = 28
+    public static let mdSysSpacingX10 = 40
+    public static let mdSysSpacingX11 = 44
+    public static let mdSysSpacingX12 = 48
+    public static let mdSysSpacingX13 = 52
+    public static let mdSysSpacingX14 = 56
+    public static let mdSysSpacingX15 = 60
+    public static let mdSysSpacingX16 = 64
+    public static let mdSysSpacingX17 = 68
+    public static let mdSysSpacingX18 = 72
+    public static let mdSysSpacingX8 = 32
+    public static let mdSysSpacingX9 = 36
     public static let mdSysTypescaleBodyLargeFamily = Roboto
     public static let mdSysTypescaleBodyLargeLineHeight = 24 /* typescale body large line-height */
     public static let mdSysTypescaleBodyLargeSize = CGFloat(256.00)

@@ -138,65 +138,65 @@
       "value": "0",
       "comment": "typescale display large tracking"
     },
-    "md_sys_spacing_xxxx-small": {
-      "value": "4",
-      "comment": "xxxx small"
+    "md_sys_spacing_1x": {
+      "value": "4"
     },
-    "md_sys_spacing_xxx-small": {
-      "value": "8",
-      "comment": "xxx small"
+    "md_sys_spacing_2x": {
+      "value": "8"
     },
-    "md_sys_spacing_xx-small": {
-      "value": "12",
-      "comment": "xx small"
+    "md_sys_spacing_3x": {
+      "value": "12"
     },
-    "md_sys_spacing_x-small": {
-      "value": "16",
-      "comment": "x small"
+    "md_sys_spacing_4x": {
+      "value": "16"
     },
-    "md_sys_spacing_small": {
-      "value": "20",
-      "comment": "small"
+    "md_sys_spacing_5x": {
+      "value": "20"
     },
-    "md_sys_spacing_medium": {
-      "value": "24",
-      "comment": "medium"
+    "md_sys_spacing_6x": {
+      "value": "24"
     },
-    "md_sys_spacing_x-medium": {
-      "value": "28",
-      "comment": "x medium"
+    "md_sys_spacing_7x": {
+      "value": "28"
     },
-    "md_sys_spacing_xx-medium": {
-      "value": "32",
-      "comment": "xx medium"
+    "md_sys_spacing_x8": {
+      "value": "32"
     },
-    "md_sys_spacing_xxx-medium": {
-      "value": "36",
-      "comment": "xxx medium"
+    "md_sys_spacing_x9": {
+      "value": "36"
     },
-    "md_sys_spacing_xxxx-medium": {
-      "value": "40",
-      "comment": "xxxx medium"
+    "md_sys_spacing_x10": {
+      "value": "40"
     },
-    "md_sys_spacing_large": {
-      "value": "44",
-      "comment": "large"
+    "md_sys_spacing_x11": {
+      "value": "44"
     },
-    "md_sys_spacing_x-large": {
-      "value": "48",
-      "comment": "xxx large"
+    "md_sys_spacing_x12": {
+      "value": "48"
     },
-    "md_sys_spacing_xx-large": {
-      "value": "52",
-      "comment": "xx large"
+    "md_sys_spacing_x13": {
+      "value": "52"
     },
-    "md_sys_spacing_xxx-large": {
-      "value": "56",
-      "comment": "xxx large"
+    "md_sys_spacing_x14": {
+      "value": "56"
     },
-    "md_sys_spacing_xxxx-large": {
-      "value": "64",
-      "comment": "xxxx large"
+    "md_sys_spacing_x15": {
+      "value": "60"
+    },
+    "md_sys_spacing_x16": {
+      "value": "64"
+    },
+    "md_sys_spacing_x17": {
+      "value": "68"
+    },
+    "md_sys_spacing_x18": {
+      "value": "72"
+    },
+    "md_sys_spacing_19x": {
+      "value": "76"
+    },
+    "md_sys_spacing_20x": {
+      "value": "80"
     }
   }
 }
