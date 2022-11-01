@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 01 Nov 2022 18:52:46 GMT
+ * Generated on Tue, 01 Nov 2022 18:58:04 GMT
  */
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
@@ -247,6 +247,7 @@ export const MdSysTypescaleDisplayMediumLineHeight = "52"; // typescale display 
 export const MdSysTypescaleDisplayMediumTracking = "0";
 export const MdSysTypescaleDisplayLargeLineHeight = "64"; // typescale display large line-height
 export const MdSysTypescaleDisplayLargeTracking = "0"; // typescale display large tracking
+export const MdSysSpacingBase = "4";
 export const MdSysSpacing1X = "4";
 export const MdSysSpacing2X = "8";
 export const MdSysSpacing3X = "12";

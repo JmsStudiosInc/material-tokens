@@ -197,6 +197,9 @@
     },
     "md_sys_spacing_20x": {
       "value": "80"
+    },
+    "md_sys_spacing_base": {
+      "value": "4"
     }
   }
 }

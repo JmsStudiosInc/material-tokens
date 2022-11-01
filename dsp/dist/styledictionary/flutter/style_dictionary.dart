@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 01 Nov 2022 18:52:46 GMT
+// Generated on Tue, 01 Nov 2022 18:58:04 GMT
 
 
 
@@ -202,6 +202,7 @@ class StyleDictionary {
     static const mdSysSpacing7X = 28;
     static const mdSysSpacing8X = 32;
     static const mdSysSpacing9X = 36;
+    static const mdSysSpacingBase = 4;
     static const mdSysTypescaleBodyLargeFamily = Roboto;
     static const mdSysTypescaleBodyLargeLineHeight = 24; /* typescale body large line-height */
     static const mdSysTypescaleBodyLargeSize = 256.00;

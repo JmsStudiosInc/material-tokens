@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 01 Nov 2022 18:52:46 GMT
+// Generated on Tue, 01 Nov 2022 18:58:04 GMT
 
 
 import UIKit
@@ -199,6 +199,7 @@ public class StyleDictionary {
     public static let mdSysSpacing7X = 28
     public static let mdSysSpacing8X = 32
     public static let mdSysSpacing9X = 36
+    public static let mdSysSpacingBase = 4
     public static let mdSysTypescaleBodyLargeFamily = Roboto
     public static let mdSysTypescaleBodyLargeLineHeight = 24 /* typescale body large line-height */
     public static let mdSysTypescaleBodyLargeSize = CGFloat(256.00)
