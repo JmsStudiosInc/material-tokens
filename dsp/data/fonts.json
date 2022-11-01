@@ -21,21 +21,9 @@
           "key": "label-small"
         },
         {
-          "id": "md.sys.typescale.label-small.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.label-small.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.label-small.size",
           "type": "custom",
-          "value": "",
+          "value": "11",
           "key": "size"
         },
         {
@@ -76,21 +64,9 @@
           "key": "text-transform"
         },
         {
-          "id": "md.sys.typescale.label-medium.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.label-medium.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.label-medium.size",
           "type": "custom",
-          "value": "",
+          "value": "12",
           "key": "size"
         },
         {
@@ -112,8 +88,8 @@
       "type": "font",
       "id": "md.sys.typescale.label-large",
       "name": "md.sys.typescale.label-large",
-      "last_updated": "2022-03-30T17:34:16.000Z",
-      "last_updated_by": "Material",
+      "last_updated": "2022-08-24T20:33:37.993Z",
+      "last_updated_by": "",
       "description": "",
       "tags": [],
       "related_entity_ids": [],
@@ -125,34 +101,22 @@
           "key": "label-large"
         },
         {
-          "id": "md.sys.typescale.label-large.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
+          "id": "md.sys.typescale.label-large-family",
+          "type": "alias",
+          "value": "{md.ref.typeface.plain}",
+          "key": "family"
         },
         {
-          "id": "md.sys.typescale.label-large.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
-          "id": "md.sys.typescale.label-large.size",
-          "type": "custom",
-          "value": "",
-          "key": "size"
-        },
-        {
-          "id": "md.sys.typescale.label-large.weight",
+          "id": "md.sys.typescale.label-large-weight",
           "type": "alias",
           "value": "{md.ref.typeface.weight-medium}",
           "key": "weight"
         },
         {
-          "id": "md.sys.typescale.label-large.font",
-          "type": "alias",
-          "value": "{md.ref.typeface.plain}",
-          "key": "family"
+          "id": "md.sys.typescale.label-large-size",
+          "type": "custom",
+          "value": "14",
+          "key": "size"
         }
       ]
     },
@@ -174,21 +138,9 @@
           "key": "body-small"
         },
         {
-          "id": "md.sys.typescale.body-small.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.body-small.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.body-small.size",
           "type": "custom",
-          "value": "",
+          "value": "12",
           "key": "size"
         },
         {
@@ -223,21 +175,9 @@
           "key": "body-medium"
         },
         {
-          "id": "md.sys.typescale.body-medium.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.body-medium.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.body-medium.size",
           "type": "custom",
-          "value": "",
+          "value": "14",
           "key": "size"
         },
         {
@@ -272,21 +212,9 @@
           "key": "body-large"
         },
         {
-          "id": "md.sys.typescale.body-large.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.body-large.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.body-large.size",
           "type": "custom",
-          "value": "",
+          "value": "16",
           "key": "size"
         },
         {
@@ -321,21 +249,9 @@
           "key": "title-small"
         },
         {
-          "id": "md.sys.typescale.title-small.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.title-small.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.title-small.size",
           "type": "custom",
-          "value": "",
+          "value": "14",
           "key": "size"
         },
         {
@@ -370,21 +286,9 @@
           "key": "title-medium"
         },
         {
-          "id": "md.sys.typescale.title-medium.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.title-medium.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.title-medium.size",
           "type": "custom",
-          "value": "",
+          "value": "16",
           "key": "size"
         },
         {
@@ -419,21 +323,9 @@
           "key": "title-large"
         },
         {
-          "id": "md.sys.typescale.title-large.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.title-large.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.title-large.size",
           "type": "custom",
-          "value": "",
+          "value": "22",
           "key": "size"
         },
         {
@@ -468,21 +360,9 @@
           "key": "headline-small"
         },
         {
-          "id": "md.sys.typescale.headline-small.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.headline-small.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.headline-small.size",
           "type": "custom",
-          "value": "",
+          "value": "24",
           "key": "size"
         },
         {
@@ -517,21 +397,9 @@
           "key": "headline-medium"
         },
         {
-          "id": "md.sys.typescale.headline-medium.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.headline-medium.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.headline-medium.size",
           "type": "custom",
-          "value": "",
+          "value": "28",
           "key": "size"
         },
         {
@@ -566,21 +434,9 @@
           "key": "headline-large"
         },
         {
-          "id": "md.sys.typescale.headline-large.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.headline-large.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.headline-large.size",
           "type": "custom",
-          "value": "",
+          "value": "32",
           "key": "size"
         },
         {
@@ -615,21 +471,9 @@
           "key": "display-small"
         },
         {
-          "id": "md.sys.typescale.display-small.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.display-small.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.display-small.size",
           "type": "custom",
-          "value": "",
+          "value": "36",
           "key": "size"
         },
         {
@@ -664,21 +508,9 @@
           "key": "display-medium"
         },
         {
-          "id": "md.sys.typescale.display-medium.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.display-medium.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.display-medium.size",
           "type": "custom",
-          "value": "",
+          "value": "45",
           "key": "size"
         },
         {
@@ -713,21 +545,9 @@
           "key": "display-large"
         },
         {
-          "id": "md.sys.typescale.display-large.line-height",
-          "type": "custom",
-          "value": "",
-          "key": "line-height"
-        },
-        {
-          "id": "md.sys.typescale.display-large.tracking",
-          "type": "custom",
-          "value": "",
-          "key": "tracking"
-        },
-        {
           "id": "md.sys.typescale.display-large.size",
           "type": "custom",
-          "value": "",
+          "value": "57",
           "key": "size"
         },
         {

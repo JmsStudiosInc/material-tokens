@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 24 Aug 2022 20:33:41 GMT
+ * Generated on Fri, 29 Jul 2022 21:16:23 GMT
  */
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
