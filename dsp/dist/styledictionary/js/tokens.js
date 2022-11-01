@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 01 Nov 2022 18:19:26 GMT
+ * Generated on Tue, 01 Nov 2022 18:52:46 GMT
  */
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
@@ -254,16 +254,16 @@ export const MdSysSpacing4X = "16";
 export const MdSysSpacing5X = "20";
 export const MdSysSpacing6X = "24";
 export const MdSysSpacing7X = "28";
-export const MdSysSpacingX8 = "32";
-export const MdSysSpacingX9 = "36";
-export const MdSysSpacingX10 = "40";
-export const MdSysSpacingX11 = "44";
-export const MdSysSpacingX12 = "48";
-export const MdSysSpacingX13 = "52";
-export const MdSysSpacingX14 = "56";
-export const MdSysSpacingX15 = "60";
-export const MdSysSpacingX16 = "64";
-export const MdSysSpacingX17 = "68";
-export const MdSysSpacingX18 = "72";
+export const MdSysSpacing8X = "32";
+export const MdSysSpacing9X = "36";
+export const MdSysSpacing10X = "40";
+export const MdSysSpacing11X = "44";
+export const MdSysSpacing12X = "48";
+export const MdSysSpacing13X = "52";
+export const MdSysSpacing14X = "56";
+export const MdSysSpacing15X = "60";
+export const MdSysSpacing16X = "64";
+export const MdSysSpacing17X = "68";
+export const MdSysSpacing18X = "72";
 export const MdSysSpacing19X = "76";
 export const MdSysSpacing20X = "80";

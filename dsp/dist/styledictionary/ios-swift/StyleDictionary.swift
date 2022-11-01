@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 01 Nov 2022 18:19:26 GMT
+// Generated on Tue, 01 Nov 2022 18:52:46 GMT
 
 
 import UIKit
@@ -179,6 +179,15 @@ public class StyleDictionary {
     public static let mdSysColorTertiaryContainerLight = UIColor(red: 1.000, green: 0.847, blue: 0.894, alpha: 1) /* Tertiary container */
     public static let mdSysColorTertiaryDark = UIColor(red: 0.937, green: 0.722, blue: 0.784, alpha: 1) /* Tertiary */
     public static let mdSysColorTertiaryLight = UIColor(red: 0.490, green: 0.322, blue: 0.376, alpha: 1) /* Tertiary */
+    public static let mdSysSpacing10X = 40
+    public static let mdSysSpacing11X = 44
+    public static let mdSysSpacing12X = 48
+    public static let mdSysSpacing13X = 52
+    public static let mdSysSpacing14X = 56
+    public static let mdSysSpacing15X = 60
+    public static let mdSysSpacing16X = 64
+    public static let mdSysSpacing17X = 68
+    public static let mdSysSpacing18X = 72
     public static let mdSysSpacing19X = 76
     public static let mdSysSpacing1X = 4
     public static let mdSysSpacing20X = 80
@@ -188,17 +197,8 @@ public class StyleDictionary {
     public static let mdSysSpacing5X = 20
     public static let mdSysSpacing6X = 24
     public static let mdSysSpacing7X = 28
-    public static let mdSysSpacingX10 = 40
-    public static let mdSysSpacingX11 = 44
-    public static let mdSysSpacingX12 = 48
-    public static let mdSysSpacingX13 = 52
-    public static let mdSysSpacingX14 = 56
-    public static let mdSysSpacingX15 = 60
-    public static let mdSysSpacingX16 = 64
-    public static let mdSysSpacingX17 = 68
-    public static let mdSysSpacingX18 = 72
-    public static let mdSysSpacingX8 = 32
-    public static let mdSysSpacingX9 = 36
+    public static let mdSysSpacing8X = 32
+    public static let mdSysSpacing9X = 36
     public static let mdSysTypescaleBodyLargeFamily = Roboto
     public static let mdSysTypescaleBodyLargeLineHeight = 24 /* typescale body large line-height */
     public static let mdSysTypescaleBodyLargeSize = CGFloat(256.00)
