@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 29 Oct 2022 03:06:11 GMT
+ * Generated on Tue, 01 Nov 2022 18:58:04 GMT
  */
 
 :root {
@@ -248,19 +248,25 @@
   --md-sys-typescale-display-medium-tracking: 0;
   --md-sys-typescale-display-large-line-height: 64; /* typescale display large line-height */
   --md-sys-typescale-display-large-tracking: 0; /* typescale display large tracking */
-  --md-sys-spacing-xxxx-small: 4; /* xxxx small */
-  --md-sys-spacing-xxx-small: 8; /* xxx small */
-  --md-sys-spacing-xx-small: 12; /* xx small */
-  --md-sys-spacing-x-small: 16; /* x small */
-  --md-sys-spacing-small: 20; /* small */
-  --md-sys-spacing-medium: 24; /* medium */
-  --md-sys-spacing-x-medium: 28; /* x medium */
-  --md-sys-spacing-xx-medium: 32; /* xx medium */
-  --md-sys-spacing-xxx-medium: 36; /* xxx medium */
-  --md-sys-spacing-xxxx-medium: 40; /* xxxx medium */
-  --md-sys-spacing-large: 44; /* large */
-  --md-sys-spacing-x-large: 48; /* xxx large */
-  --md-sys-spacing-xx-large: 52; /* xx large */
-  --md-sys-spacing-xxx-large: 56; /* xxx large */
-  --md-sys-spacing-xxxx-large: 64; /* xxxx large */
+  --md-sys-spacing-1-x: 4;
+  --md-sys-spacing-2-x: 8;
+  --md-sys-spacing-3-x: 12;
+  --md-sys-spacing-4-x: 16;
+  --md-sys-spacing-5-x: 20;
+  --md-sys-spacing-6-x: 24;
+  --md-sys-spacing-7-x: 28;
+  --md-sys-spacing-8-x: 32;
+  --md-sys-spacing-9-x: 36;
+  --md-sys-spacing-10-x: 40;
+  --md-sys-spacing-11-x: 44;
+  --md-sys-spacing-12-x: 48;
+  --md-sys-spacing-13-x: 52;
+  --md-sys-spacing-14-x: 56;
+  --md-sys-spacing-15-x: 60;
+  --md-sys-spacing-16-x: 64;
+  --md-sys-spacing-17-x: 68;
+  --md-sys-spacing-18-x: 72;
+  --md-sys-spacing-19-x: 76;
+  --md-sys-spacing-20-x: 80;
+  --md-sys-spacing-base: 4;
 }
