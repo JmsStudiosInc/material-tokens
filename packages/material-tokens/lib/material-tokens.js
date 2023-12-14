@@ -2,6 +2,34 @@
  * Do not edit directly
  * Generated on Tue, 01 Nov 2022 18:58:04 GMT
  */
+// current theme
+export const MdRefPalettePrimary40 = "rgb(255, 180, 168)"; // Primary
+export const MdRefPalettePrimary100 = "rgb(105, 1, 0)"; // onPrimary
+export const MdRefPalettePrimary90 = "rgb(147, 1, 0)"; // primaryContainer
+export const MdRefPalettePrimary10 = "rgb(255, 218, 212)"; // onPrimaryContainer
+export const MdRefPaletteSecondary40 = "rgb(231, 189, 182)"; // Secondary
+export const MdRefPaletteSecondary100 = "rgb(68, 41, 37)"; // onSecondary
+export const MdRefPaletteSecondary90 = "rgb(93, 63, 59)"; // secondaryContainer
+export const MdRefPaletteSecondary10 = "rgb(255, 218, 212)"; // onSecondaryContainer
+export const MdRefPaletteTertiary40 = "rgb(222, 196, 140)"; // Tertiary
+export const MdRefPaletteTertiary100 = "rgb(62, 46, 4)"; // onTertiary
+export const MdRefPaletteTertiary90 = "rgb(86, 68, 25)"; // tertiaryContainer
+export const MdRefPaletteTertiary10 = "rgb(251, 223, 166)"; // onTertiaryContainer
+export const MdRefPaletteError40 = "rgb(255, 180, 171)"; // Error
+export const MdRefPaletteError100 = "rgb(105, 0, 5)"; // onError
+export const MdRefPaletteError90 = "rgb(147, 0, 10)"; //  errorContainer
+export const MdRefPaletteError10 = "rgb(255, 180, 171)"; // onErrorContainer
+export const MdRefPaletteNeutral99 = "rgb(32, 26, 25)"; // background ||  surface
+export const MdRefPaletteNeutral10 = "rgb(237, 224, 221)"; // onBackground || onSurface || surfaceDisabled || onSurfaceDisabled
+export const MdRefPaletteNeutralVariant90 = "rgb(83, 67, 65)"; //  surfaceVariant
+export const MdRefPaletteNeutralVariant30 = "rgb(216, 194, 190)"; // onSurfaceVariant
+export const MdRefPaletteNeutralVariant50 = "rgb(160, 140, 137)"; // outline
+export const MdRefPaletteNeutralVariant80 = "rgb(83, 67, 65)"; // outlineVariant
+export const MdRefPaletteNeutral0 = "rgb(0, 0, 0)"; //  shadow || scrim
+export const MdRefPaletteNeutral20 = "rgb(237, 224, 221)"; // inverseSurface
+export const MdRefPaletteNeutral95 = "rgb(54, 47, 46)"; // inverseOnSurface
+export const MdRefPalettePrimary80 = "rgb(192, 1, 0)"; // inversePrimary
+export const MdRefPaletteNeutralVariant20 = "rgba(59, 45, 43, 0.4)"; // backdrop
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
 export const MdSysColorOnErrorContainerLight = "#410e0b"; // On error container
@@ -88,73 +116,54 @@ export const MdSysColorOnPrimary = "#ffffff"; // On primary
 export const MdSysColorPrimaryContainer = "#eaddff"; // Primary container
 export const MdSysColorPrimary = "#6750a4"; // Primary
 export const MdRefPaletteError0 = "#000000"; // Error 0
-export const MdRefPaletteError10 = "#410e0b"; // Error 10
 export const MdRefPaletteError20 = "#601410"; // Error 20
 export const MdRefPaletteError30 = "#8c1d18"; // Error 30
-export const MdRefPaletteError40 = "#b3261e"; // Error 40
+
 export const MdRefPaletteError50 = "#dc362e"; // Error 50
 export const MdRefPaletteError60 = "#e46962"; // Error 60
 export const MdRefPaletteError70 = "#ec928e"; // Error 70
 export const MdRefPaletteError80 = "#f2b8b5"; // Error 80
-export const MdRefPaletteError90 = "#f9dedc"; // Error 90
 export const MdRefPaletteError95 = "#fceeee"; // Error 95
 export const MdRefPaletteError99 = "#fffbf9"; // Error 99
-export const MdRefPaletteError100 = "#ffffff"; // Error 100
+
 export const MdRefPaletteTertiary0 = "#000000"; // Tertiary 0
-export const MdRefPaletteTertiary10 = "#31111d"; // Tertiary 10
 export const MdRefPaletteTertiary20 = "#492532"; // Tertiary 20
 export const MdRefPaletteTertiary30 = "#633b48"; // Tertiary 30
-export const MdRefPaletteTertiary40 = "#7d5260"; // Tertiary 40
 export const MdRefPaletteTertiary50 = "#986977"; // Tertiary 50
 export const MdRefPaletteTertiary60 = "#b58392"; // Tertiary 60
 export const MdRefPaletteTertiary70 = "#d29dac"; // Tertiary 70
 export const MdRefPaletteTertiary80 = "#efb8c8"; // Tertiary 80
-export const MdRefPaletteTertiary90 = "#ffd8e4"; // Tertiary 90
 export const MdRefPaletteTertiary95 = "#ffecf1"; // Tertiary 95
 export const MdRefPaletteTertiary99 = "#fffbfa"; // Tertiary 99
-export const MdRefPaletteTertiary100 = "#ffffff"; // Tertiary 100
+
 export const MdRefPaletteSecondary0 = "#000000"; // Secondary 0
-export const MdRefPaletteSecondary10 = "#1d192b"; // Secondary 10
 export const MdRefPaletteSecondary20 = "#332d41"; // Secondary 20
 export const MdRefPaletteSecondary30 = "#4a4458"; // Secondary 30
-export const MdRefPaletteSecondary40 = "#625b71"; // Secondary 40
 export const MdRefPaletteSecondary50 = "#7a7289"; // Secondary 50
 export const MdRefPaletteSecondary60 = "#958da5"; // Secondary 60
 export const MdRefPaletteSecondary70 = "#b0a7c0"; // Secondary 70
 export const MdRefPaletteSecondary80 = "#ccc2dc"; // Secondary 80
-export const MdRefPaletteSecondary90 = "#e8def8"; // Secondary 90
 export const MdRefPaletteSecondary95 = "#f6edff"; // Secondary 95
 export const MdRefPaletteSecondary99 = "#fffbfe"; // Secondary 99
-export const MdRefPaletteSecondary100 = "#ffffff"; // Secondary 100
+
 export const MdRefPalettePrimary0 = "#000000"; // Primary 0
-export const MdRefPalettePrimary10 = "#21005d"; // Primary 10
+
 export const MdRefPalettePrimary20 = "#381e72"; // Primary 20
 export const MdRefPalettePrimary30 = "#4f378b"; // Primary 30
-export const MdRefPalettePrimary40 = "#6750a4"; // Primary 40
 export const MdRefPalettePrimary50 = "#7f67be"; // Primary 50
 export const MdRefPalettePrimary60 = "#9a82db"; // Primary 60
 export const MdRefPalettePrimary70 = "#b69df8"; // Primary 70
-export const MdRefPalettePrimary80 = "#d0bcff"; // Primary 80
-export const MdRefPalettePrimary90 = "#eaddff"; // Primary 90
 export const MdRefPalettePrimary95 = "#f6edff"; // Primary 95
 export const MdRefPalettePrimary99 = "#fffbfe"; // Primary 99
-export const MdRefPalettePrimary100 = "#ffffff"; // Primary 100
+
 export const MdRefPaletteNeutralVariant0 = "#000000"; // Neutral Variant 0
 export const MdRefPaletteNeutralVariant10 = "#1d1a22"; // Neutral Variant 10
-export const MdRefPaletteNeutralVariant20 = "#322f37"; // Neutral Variant 20
-export const MdRefPaletteNeutralVariant30 = "#49454f"; // Neutral Variant 30
 export const MdRefPaletteNeutralVariant40 = "#605d66"; // Neutral Variant 40
-export const MdRefPaletteNeutralVariant50 = "#79747e"; // Neutral Variant 50
 export const MdRefPaletteNeutralVariant60 = "#938f99"; // Neutral Variant 60
 export const MdRefPaletteNeutralVariant70 = "#aea9b4"; // Neutral Variant 70
-export const MdRefPaletteNeutralVariant80 = "#cac4d0"; // Neutral Variant 80
-export const MdRefPaletteNeutralVariant90 = "#e7e0ec"; // Neutral Variant 90
 export const MdRefPaletteNeutralVariant95 = "#f5eefa"; // Neutral Variant 95
 export const MdRefPaletteNeutralVariant99 = "#fffbfe"; // Neutral Variant 99
 export const MdRefPaletteNeutralVariant100 = "#ffffff"; // Neutral Variant 100
-export const MdRefPaletteNeutral0 = "#000000"; // Neutral 0
-export const MdRefPaletteNeutral10 = "#1c1b1f"; // Neutral 10
-export const MdRefPaletteNeutral20 = "#313033"; // Neutral 20
 export const MdRefPaletteNeutral30 = "#484649"; // Neutral 30
 export const MdRefPaletteNeutral40 = "#605d62"; // Neutral 40
 export const MdRefPaletteNeutral50 = "#787579"; // Neutral 50
@@ -162,8 +171,14 @@ export const MdRefPaletteNeutral60 = "#939094"; // Neutral 60
 export const MdRefPaletteNeutral70 = "#aeaaae"; // Neutral 70
 export const MdRefPaletteNeutral80 = "#c9c5ca"; // Neutral 80
 export const MdRefPaletteNeutral90 = "#e6e1e5"; // Neutral 90
-export const MdRefPaletteNeutral95 = "#f4eff4"; // Neutral 95
-export const MdRefPaletteNeutral99 = "#fffbfe"; // Neutral 99
+
+export const MdRefPaletteLevel0 = "transparent"; // level0
+export const MdRefPaletteLevel1 = "rgb(43, 34, 32)"; // level1
+export const MdRefPaletteLevel2 = "rgb(50, 38, 36)"; // level2
+export const MdRefPaletteLevel3 = "rgb(57, 43, 41)"; // level3
+export const MdRefPaletteLevel4 = "rgb(59, 45, 42)"; // level4
+export const MdRefPaletteLevel5 = "rgb(63, 48, 45)"; // level5
+
 export const MdRefPaletteNeutral100 = "#ffffff"; // Neutral 100
 export const MdRefPaletteBlack = "#000000"; // Black
 export const MdRefPaletteWhite = "#ffffff"; // White
