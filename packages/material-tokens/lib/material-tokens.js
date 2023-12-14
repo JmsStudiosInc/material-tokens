@@ -3,33 +3,33 @@
  * Generated on Tue, 01 Nov 2022 18:58:04 GMT
  */
 // current theme
-export const MdRefPalettePrimary40 = "rgb(52, 61, 255)"; // Primary
-export const MdRefPalettePrimary100 = "rgb(255, 255, 255)"; // onPrimary
-export const MdRefPalettePrimary90 = "rgb(224, 224, 255)"; // primaryContainer
-export const MdRefPalettePrimary10 = "rgb(0, 0, 110)"; // onPrimaryContainer
-export const MdRefPaletteSecondary40 = "rgb(92, 93, 114)"; // Secondary
-export const MdRefPaletteSecondary100 = "rgb(255, 255, 255)"; // onSecondary
-export const MdRefPaletteSecondary90 = "rgb(225, 224, 249)"; // secondaryContainer
-export const MdRefPaletteSecondary10 = "rgb(25, 26, 44)"; // onSecondaryContainer
-export const MdRefPaletteTertiary40 = "rgb(120, 83, 107)"; // Tertiary
-export const MdRefPaletteTertiary100 = "rgb(255, 255, 255)"; // onTertiary
-export const MdRefPaletteTertiary90 = "rgb(255, 216, 238)"; // tertiaryContainer
-export const MdRefPaletteTertiary10 = "rgb(46, 17, 38)"; // onTertiaryContainer
-export const MdRefPaletteError40 = "rgb(186, 26, 26)"; // Error
-export const MdRefPaletteError100 = "rgb(255, 255, 255)"; // onError
-export const MdRefPaletteError90 = "rgb(255, 218, 214)"; //  errorContainer
-export const MdRefPaletteError10 = "rgb(65, 0, 2)"; // onErrorContainer
-export const MdRefPaletteNeutral99 = "rgb(255, 251, 255)"; // background ||  surface
-export const MdRefPaletteNeutral10 = "rgb(27, 27, 31)"; // onBackground || onSurface || surfaceDisabled || onSurfaceDisabled
-export const MdRefPaletteNeutralVariant90 = "rgb(228, 225, 236)"; //  surfaceVariant
-export const MdRefPaletteNeutralVariant30 = "rgb(70, 70, 79)"; // onSurfaceVariant
-export const MdRefPaletteNeutralVariant50 = "rgb(119, 118, 128)"; // outline
-export const MdRefPaletteNeutralVariant80 = "rgb(199, 197, 208)"; // outlineVariant
+export const MdRefPalettePrimary40 = "rgb(114, 222, 94)"; // Primary
+export const MdRefPalettePrimary100 = "rgb(0, 58, 0)"; // onPrimary
+export const MdRefPalettePrimary90 = "rgb(0, 83, 0)"; // primaryContainer
+export const MdRefPalettePrimary10 = "rgb(141, 251, 119)"; // onPrimaryContainer
+export const MdRefPaletteSecondary40 = "rgb(187, 203, 178)"; // Secondary
+export const MdRefPaletteSecondary100 = "rgb(38, 52, 34)"; // onSecondary
+export const MdRefPaletteSecondary90 = "rgb(60, 75, 55)"; // secondaryContainer
+export const MdRefPaletteSecondary10 = "rgb(215, 232, 205)"; // onSecondaryContainer
+export const MdRefPaletteTertiary40 = "rgb(160, 207, 210)"; // Tertiary
+export const MdRefPaletteTertiary100 = "rgb(0, 55, 57)"; // onTertiary
+export const MdRefPaletteTertiary90 = "rgb(30, 77, 80)"; // tertiaryContainer
+export const MdRefPaletteTertiary10 = "rgb(188, 235, 238)"; // onTertiaryContainer
+export const MdRefPaletteError40 = "rgb(255, 180, 171)"; // Error
+export const MdRefPaletteError100 = "rgb(105, 0, 5)"; // onError
+export const MdRefPaletteError90 = "rgb(147, 0, 10)"; //  errorContainer
+export const MdRefPaletteError10 = "rgb(255, 180, 171)"; // onErrorContainer
+export const MdRefPaletteNeutral99 = "rgb(26, 28, 24)"; // background ||  surface
+export const MdRefPaletteNeutral10 = "rgb(226, 227, 220)"; // onBackground || onSurface || surfaceDisabled || onSurfaceDisabled
+export const MdRefPaletteNeutralVariant90 = "rgb(67, 72, 63)"; //  surfaceVariant
+export const MdRefPaletteNeutralVariant30 = "rgb(195, 200, 188)"; // onSurfaceVariant
+export const MdRefPaletteNeutralVariant50 = "rgb(141, 147, 135)"; // outline
+export const MdRefPaletteNeutralVariant80 = "rgb(67, 72, 63)"; // outlineVariant
 export const MdRefPaletteNeutral0 = "rgb(0, 0, 0)"; //  shadow || scrim
-export const MdRefPaletteNeutral20 = "rgb(48, 48, 52)"; // inverseSurface
-export const MdRefPaletteNeutral95 = "rgb(243, 239, 244)"; // inverseOnSurface
-export const MdRefPalettePrimary80 = "rgb(190, 194, 255)"; // inversePrimary
-export const MdRefPaletteNeutralVariant20 = "rgba(48, 48, 56, 0.4)"; // backdrop
+export const MdRefPaletteNeutral20 = "rgb(226, 227, 220)"; // inverseSurface
+export const MdRefPaletteNeutral95 = "rgb(47, 49, 45)"; // inverseOnSurface
+export const MdRefPalettePrimary80 = "rgb(0, 110, 0)"; // inversePrimary
+export const MdRefPaletteNeutralVariant20 = "rgba(44, 50, 41, 0.4)"; // backdrop
 
 export const MdSysColorSurfaceTintLight = "#6750a4"; // Surface tint
 export const MdSysColorOnErrorContainerLight = "#410e0b"; // On error container
@@ -173,11 +173,11 @@ export const MdRefPaletteNeutral80 = "#c9c5ca"; // Neutral 80
 export const MdRefPaletteNeutral90 = "#e6e1e5"; // Neutral 90
 
 export const MdRefPaletteLevel0 = "transparent"; // level0
-export const MdRefPaletteLevel1 = "rgb(245, 242, 255)"; // level1
-export const MdRefPaletteLevel2 = "rgb(239, 236, 255)"; // level2
-export const MdRefPaletteLevel3 = "rgb(233, 230, 255)"; // level3
-export const MdRefPaletteLevel4 = "rgb(231, 228, 255)"; // level4
-export const MdRefPaletteLevel5 = "rgb(227, 224, 255)"; // level5
+export const MdRefPaletteLevel1 = "rgb(30, 38, 28)"; // level1
+export const MdRefPaletteLevel2 = "rgb(33, 44, 30)"; // level2
+export const MdRefPaletteLevel3 = "rgb(36, 49, 32)"; // level3
+export const MdRefPaletteLevel4 = "rgb(37, 51, 32)"; // level4
+export const MdRefPaletteLevel5 = "rgb(38, 55, 34)"; // level5
 
 export const MdRefPaletteNeutral100 = "#ffffff"; // Neutral 100
 export const MdRefPaletteBlack = "#000000"; // Black
